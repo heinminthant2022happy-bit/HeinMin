@@ -14,7 +14,7 @@ else:
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- CONFIGURATION (ဒီနေရာမှာ Link ကို ပြောင်းရုံပါပဲ) ---
-KEY_URL = "https://raw.githubusercontent.com/heinminthant2022happy-bit/Aladdin/refs/heads/main/key.txt"
+KEY_URL = "https://raw.githubusercontent.com/heinminthant2022happy-bit/HeinMin/refs/heads/main/Key.txt"
 LICENSE_FILE = ".aladdin_v11.lic"
 ID_STORAGE = ".device_id"
 
